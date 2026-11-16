@@ -1,0 +1,13 @@
+# Kit, sealed input, and local run output — never commit
+out/
+/tmp/
+input/
+*.tar.gz
+node_modules/
+.DS_Store
+.playwright/
+playwright-report/
+test-results/
+.env
+.env.*
+*.log
